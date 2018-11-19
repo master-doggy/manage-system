@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/manage-system.iml" filepath="$PROJECT_DIR$/manage-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage-system-api/manage-system-api.iml" filepath="$PROJECT_DIR$/manage-system-api/manage-system-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage-system-operate/manage-system-operate.iml" filepath="$PROJECT_DIR$/manage-system-operate/manage-system-operate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage-system-web/manage-system-web.iml" filepath="$PROJECT_DIR$/manage-system-web/manage-system-web.iml" />
+    </modules>
+  </component>
+</project>

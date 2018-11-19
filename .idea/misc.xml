@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/manage-system-web" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/manage-system-operate/src/main/java/com/yz/oa/manageSystem/operate/service/pom.xml" />
+        <option value="$PROJECT_DIR$/manage-system-api/pom.xml" />
+        <option value="$PROJECT_DIR$/manage-system-web/pom.xml" />
+        <option value="$PROJECT_DIR$/manage-system-operate/pom.xml" />
       </list>
     </option>
   </component>

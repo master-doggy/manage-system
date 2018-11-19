@@ -6,8 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="manage-system" />
+        <module name="manage-system-api" />
+        <module name="manage-system-operate" />
+        <module name="manage-system-web" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="manage-system-api" target="1.8" />
+      <module name="manage-system-operate" target="1.8" />
+      <module name="manage-system-web" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

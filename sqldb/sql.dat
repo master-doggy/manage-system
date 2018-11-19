@@ -1,0 +1,22 @@
+student
+id
+name
+password
+grade int
+log_status(0,未登陆,1,登录)
+auth tinyint(0,最低权限)
+
+teacher
+id
+name
+password
+grade
+log_status(0,未登录,1,登陆)
+auth tinyint(1)
+
+manager
+id
+name
+password
+log_status(0,未登录,1,登陆)
+auth tinyint(2,最高权限)
